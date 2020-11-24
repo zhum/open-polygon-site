@@ -1,6 +1,6 @@
 ---
 layout: home
-published: false
+published: true
 ---
 
 - [Состав комплекса](#состав-комплекса)
