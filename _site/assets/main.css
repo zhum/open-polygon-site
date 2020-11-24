@@ -22,7 +22,6 @@ figcaption { font-size: 14px; }
 ul, ol { margin-left: 30px; }
 
 li > ul, li > ol { margin-bottom: 0; }
-.li-none { list-style-type: none; /* Убираем маркеры */}
 
 /** Headings */
 h1, h2, h3, h4, h5, h6 { font-weight: 400; }
